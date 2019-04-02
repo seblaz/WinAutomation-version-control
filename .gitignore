@@ -1,0 +1,4 @@
+backups/
+.vscode/
+__pycache__/
+.idea/
