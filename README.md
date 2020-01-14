@@ -1,9 +1,14 @@
-# WinAutomation Version Control Helper
+# WinAutomation Version Control
+Tool to import and export [WinAutomation](https://www.winautomation.com/) project's with one command. This makes it possible to use a version control system with WinAutomation.
+
 ## Prerequisites
+
 - python 3
-- untangle
+
+## Installation
+
 ```
-pip install untangle
+pip install -r requirements.txt
 ```
 
 ## Getting started
